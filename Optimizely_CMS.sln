@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizely_CMS", "Optimizely_CMS.csproj", "{84426D6E-6FD1-4D8B-8F6E-F92766C72FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84426D6E-6FD1-4D8B-8F6E-F92766C72FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84426D6E-6FD1-4D8B-8F6E-F92766C72FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84426D6E-6FD1-4D8B-8F6E-F92766C72FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84426D6E-6FD1-4D8B-8F6E-F92766C72FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E84A13D-5156-495A-AA97-55B919A4ECD7}
+	EndGlobalSection
+EndGlobal
