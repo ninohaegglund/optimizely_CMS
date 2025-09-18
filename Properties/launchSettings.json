@@ -2,6 +2,7 @@
   "profiles": {
     "Optimizely_CMS": {
       "commandName": "Project",
+      "launchUrl": "episerver/cms",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5000/",
       "environmentVariables": {
